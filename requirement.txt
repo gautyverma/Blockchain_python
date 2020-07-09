@@ -1,0 +1,8 @@
+pip3 install 
+
+pytest==5.4.2
+Flask = 1.1.2
+pubnub == 4.1.6
+requests==2.23.0
+cryptography==2.9.2
+Flask-Cors==3.0.8
