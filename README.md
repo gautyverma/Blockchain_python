@@ -1,6 +1,9 @@
+Make a virtual enviroment first using python
+
 ***ACTIVATE THE ENVIROMENT***
 
 ''' after moving to the location proceed these steps
+
 "cd Da-coins"
 ".\blockchain-env\Scripts\activate"
 
