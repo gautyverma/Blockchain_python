@@ -41,4 +41,4 @@ Make sure to activate the VE
 export SEED_DATA=True && python -m backend.app
 '''
 ![Alt text](https://github.com/gautyverma/Da-Coins/blob/master/Screenshot%20(80).png "HOME-PAGE"
-![image](https://{github.com/gautyverma/Da-Coins/blob/master/Screenshot%20(80).png})
+![image](https://github.com/gautyverma/Da-Coins/blob/master/Screenshot%20(80).png)
